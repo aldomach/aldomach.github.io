@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----Para conectar un teléfono con scrcpy, debes seguir estos pasos:    
+{"dg-publish":true,"permalink":"/blog/posts/scrcpy-ver-y-controlar-andriod-desde-pc/"}
+---
+
+Para conectar un teléfono con scrcpy, debes seguir estos pasos:    
 * ** Descarga scrcpy en tu pc**. Puedes hacerlo desde el sitio web oficial
     de scrcpy. 
   

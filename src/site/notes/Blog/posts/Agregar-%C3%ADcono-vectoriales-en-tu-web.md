@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----![](../fetched_images\2022-11-12_08-04-09_chrome.png)
+{"dg-publish":true,"permalink":"/blog/posts/agregar-c3-a-dcono-vectoriales-en-tu-web/"}
+---
+
+![](../fetched_images\2022-11-12_08-04-09_chrome.png)
 
     Para insertar un icono, agregue el nombre de la clase de icono a cualquier
     elemento HTML en línea.

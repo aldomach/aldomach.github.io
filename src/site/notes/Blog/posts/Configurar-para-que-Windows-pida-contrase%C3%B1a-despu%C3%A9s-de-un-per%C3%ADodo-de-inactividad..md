@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----![](../fetched_images\OIG.jpeg)
+{"dg-publish":true,"permalink":"/blog/posts/configurar-para-que-windows-pida-contrase-c3-b1a-despu-c3-a9s-de-un-per-c3-a-dodo-de-inactividad/"}
+---
+
+![](../fetched_images\OIG.jpeg)
 Sigue estos pasos para configurar la computadora portátil para que solicite la contraseña siempre que se despierte de la suspensión o la hibernación:
 * Abre la aplicación Configuración.
 * Haz clic en "Cuentas".

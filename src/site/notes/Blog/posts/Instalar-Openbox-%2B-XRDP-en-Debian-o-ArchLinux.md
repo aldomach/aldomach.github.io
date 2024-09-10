@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----obconfi: configurador para openbox
+{"dg-publish":true,"permalink":"/blog/posts/instalar-openbox-2-b-xrdp-en-debian-o-arch-linux/"}
+---
+
+obconfi: configurador para openbox
 pcmanfm: gestor de archivo
 Firefox en Debian: apt install firefox\-esr\-l10n\-es\-ar
 isewesel: fork de firefox

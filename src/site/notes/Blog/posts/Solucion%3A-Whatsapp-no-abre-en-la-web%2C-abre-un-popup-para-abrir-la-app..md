@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----[
+{"dg-publish":true,"permalink":"/blog/posts/solucion-3-a-whatsapp-no-abre-en-la-web-2-c-abre-un-popup-para-abrir-la-app/"}
+---
+
+[
 ![](../fetched_images\AVvXsEhk_83FgF-G0LoG-4TKRVIEwp9hNI-9Dy7ZTt07hYbJD-xvl7eCJMQc_TzAbS1JpfbrbiUGh6HgtgHVkwMkgZFBatYZ7wY6L_gL6Zu_jSU2SxRLJbAh3QuUpnQCoBjcImaLqZSwww8UUB_IcyBsnE9qrKYzTyV3B_GBynVDdI4BPbFu9cq0O-LZCZGRcxQ=w320-h208)](https://blogger.googleusercontent.com/img/a/AVvXsEhk_83FgF-G0LoG-4TKRVIEwp9hNI-9Dy7ZTt07hYbJD-xvl7eCJMQc_TzAbS1JpfbrbiUGh6HgtgHVkwMkgZFBatYZ7wY6L_gL6Zu_jSU2SxRLJbAh3QuUpnQCoBjcImaLqZSwww8UUB_IcyBsnE9qrKYzTyV3B_GBynVDdI4BPbFu9cq0O-LZCZGRcxQ)
 Si alguna vez han intentado abrir un enlace de WhatsApp en una PC sin la
       app instalada, seguramente se habrán encontrado con un pop\-up en el

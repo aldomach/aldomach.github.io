@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----![](../fetched_images\_b3c80e0a-31f9-49aa-b9bf-5826cd954312.jpg)
+{"dg-publish":true,"permalink":"/blog/posts/sharex-2-c-grabar-pantalla-con-el-audio-interno-y-el-microfono/"}
+---
+
+![](../fetched_images\_b3c80e0a-31f9-49aa-b9bf-5826cd954312.jpg)
 En el ícono, hacé clic derecho, Ajuste de tarea.
 
   En la pestaña Grabador de pantalla, poné Ffmpeg como método de captura y elegí

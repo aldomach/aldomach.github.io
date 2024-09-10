@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----![](../fetched_images\AVvXsEgWXXiShsIwBUGJe621qejthIA9ndjjaUkXvEsmlYa88b1dfLRDO9aZE3BUXDlNnJOGckrwFQcLYnEan5I4SB2NoZ_l_OGawubsoQKqq757QB6MGLvlXoqgIFR3T2rc6IH2_0tbkWXoOj_89t9Df6I4AWWh1uZp9vdCTXFK2ZRkugrSTq9US69uZCOLoOQ)
+{"dg-publish":true,"permalink":"/blog/posts/editar-red-de-linux-en-consola-facil-con-nmtui/"}
+---
+
+![](../fetched_images\AVvXsEgWXXiShsIwBUGJe621qejthIA9ndjjaUkXvEsmlYa88b1dfLRDO9aZE3BUXDlNnJOGckrwFQcLYnEan5I4SB2NoZ_l_OGawubsoQKqq757QB6MGLvlXoqgIFR3T2rc6IH2_0tbkWXoOj_89t9Df6I4AWWh1uZp9vdCTXFK2ZRkugrSTq9US69uZCOLoOQ)
 
   nmtui es una interfaz de usuario de texto para NetworkManager, el servicio de
   gestión de red de Linux. Permite a los usuarios configurar sus conexiones de

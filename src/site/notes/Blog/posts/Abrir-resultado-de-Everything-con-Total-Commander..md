@@ -1,6 +1,8 @@
 ---
-dg-publish: true
---- Los siguientes pasos explican cómo hacerlo:
+{"dg-publish":true,"permalink":"/blog/posts/abrir-resultado-de-everything-con-total-commander/"}
+---
+
+Los siguientes pasos explican cómo hacerlo:
 1. Abre el Editor del Registro de Windows.
 2. Navega a la siguiente clave:
 `HKEY_CLASSES_ROOT\Directory\Shell\Open with Total Commander`

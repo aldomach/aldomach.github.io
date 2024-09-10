@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----Hay diferentes heramientas para generar códigos QR para compartir nuestros datos de contacto, para generar una tarjeta de visita o tarjeta de contacto, algunas de ellas limitan la cantidad de ítems que se puede agregar, ésta seriá la estructura para escribir en texto plano y luego generar el qr con cualquier herramienta, tenga o no la opción de cara.
+{"dg-publish":true,"permalink":"/blog/posts/crear-archivo-vcard-para-qr-manualmente/"}
+---
+
+Hay diferentes heramientas para generar códigos QR para compartir nuestros datos de contacto, para generar una tarjeta de visita o tarjeta de contacto, algunas de ellas limitan la cantidad de ítems que se puede agregar, ésta seriá la estructura para escribir en texto plano y luego generar el qr con cualquier herramienta, tenga o no la opción de cara.
 BEGIN:VCARD
 VERSION:3.0
 N:Doe;John;;;

@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----![](../fetched_images\ShareX_Screenshot.png)
+{"dg-publish":true,"permalink":"/blog/posts/configuraci-c3-b3n-de-sharex-28-grabar-audio-2-c-subir-a-youtube-29/"}
+---
+
+![](../fetched_images\ShareX_Screenshot.png)
 Estas son las opciones que uso en mi PC para hacer capturas, lo más importante es que renombre con fecha y hora, luego de capturar debe guardar la imagen, subir a Google Photos; los videos graba con audio del micrófono y los sube a YouTube.
 ### 
 

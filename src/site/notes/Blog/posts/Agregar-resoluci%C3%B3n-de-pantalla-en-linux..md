@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/blog/posts/agregar-resoluci-c3-b3n-de-pantalla-en-linux/"}
 ---
+
   En Xubuntu, si no te aparece la resolución que querés podes agregarle usando
   xrandr.
 1. 

@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----![](../fetched_images\image.png)
+{"dg-publish":true,"permalink":"/blog/posts/migrar-configuraci-c3-b3n-de-syncthing-de-un-pc-a-otro/"}
+---
+
+![](../fetched_images\image.png)
 
 Para hacer la migración de la configuración de synting solo necesitamos
   copiar tres archivos.

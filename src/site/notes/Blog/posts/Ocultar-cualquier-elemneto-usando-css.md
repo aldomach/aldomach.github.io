@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----De esta manera podemos ocultar cualquier elemento de una web que utiliza css. Se puede eliminar cualquier sección de cualquier página. 
+{"dg-publish":true,"permalink":"/blog/posts/ocultar-cualquier-elemneto-usando-css/"}
+---
+
+De esta manera podemos ocultar cualquier elemento de una web que utiliza css. Se puede eliminar cualquier sección de cualquier página. 
 Lo único que debemos hacer es buscar en nuestro sitio como insertar el fragmento css adicional, y sabiendo cual es la class a borrar pegar los siguiente, 
 ```
 .class_a_ocultar {

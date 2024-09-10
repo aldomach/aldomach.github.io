@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----[
+{"dg-publish":true,"permalink":"/blog/posts/plasma-applet-eventcalendar/"}
+---
+
+[
 ![](../fetched_images\68747470733a2f2f692e696d6775722e636f6d2f71644a373173622e6a7067.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXMSXndG-d4vNKYJ65nhR9Iem1IV878hP9d2bNt5nOnWSKVhPuqQUNrQXz6oajDoEj1lctm5il-KR9iOWSx4j03Tc1XgTkOpDdltFo6IZVfsZG3dfOXHxw4lhjRQbHmjNtpv3h6qr4LB3-Ib7daDCfx2XaRYMEUxGlQGfkN__IlsjBpLqZUK2HazS4az0/s845/68747470733a2f2f692e696d6775722e636f6d2f71644a373173622e6a7067.png)
 **Plasma\-applet\-eventcalendar **es un applet de Plasma que te permite ver tu calendario y agenda, junto con el pronóstico del tiempo, en tu escritorio. Se sincroniza con Google Calendar y OpenWeatherMap, y te ofrece las siguientes características:
 * **Vista de calendario: **Muestra tu calendario actual, con la posibilidad de ver días, semanas o meses completos. Puedes navegar por las fechas y ver los eventos programados para cada día.

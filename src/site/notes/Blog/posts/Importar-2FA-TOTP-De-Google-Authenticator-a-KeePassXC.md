@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----## ¿Cómo exportar las entradas de Google Authenticator e Importar en KeepassXC ?
+{"dg-publish":true,"permalink":"/blog/posts/importar-2-fa-totp-de-google-authenticator-a-kee-pass-xc/"}
+---
+
+## ¿Cómo exportar las entradas de Google Authenticator e Importar en KeepassXC ?
 Puede que funcione para otras variantes de Keepass, pero no sé si es así.
 Este proceso hay que hacerlo individualmente, una vez por cada entrada.
 * Abrimos la aplicación de Google Autenticathor en el celular, vamos a transferir cuentas exportar cuentas, tenemos que dejar seleccionado únicamente la cuenta que queremos exportar en ese momento

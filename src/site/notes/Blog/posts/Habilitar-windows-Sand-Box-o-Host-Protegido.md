@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----![](../fetched_images\sandbox.png)
+{"dg-publish":true,"permalink":"/blog/posts/habilitar-windows-sand-box-o-host-protegido/"}
+---
+
+![](../fetched_images\sandbox.png)
 
 
 Para habilitar Windows Sandbox \(Espacio aislado de Windows\) en tu sistema,

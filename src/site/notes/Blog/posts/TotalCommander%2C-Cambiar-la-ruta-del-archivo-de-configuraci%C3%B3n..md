@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----[
+{"dg-publish":true,"permalink":"/blog/posts/total-commander-2-c-cambiar-la-ruta-del-archivo-de-configuraci-c3-b3n/"}
+---
+
+[
 ![](../fetched_images\tcini.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkW5rPW20YAoHnYReCOyBLu_xuvV3HmNRwY9o1M00e0fo-mlWhdkeHE7QHVoeib2jbLFTFEEEy4eHvJddtS_rl_kyO-UM73Opj9ERvvWhupTTpkBOrm_X26GnOz5rSvmiaa7IHJ8pp_lCi5YY7z3sKNUfynMUeIuPHFQKJNOU4U6Rvt1bGo6pF_ZNLXUs/s600/tcini.png)
   TotalCommander guarda su configuración en wincmd.ini y wcx\_ftp \(Para las
   conexiones ftp\), en el momento de instalación una de las opciones es

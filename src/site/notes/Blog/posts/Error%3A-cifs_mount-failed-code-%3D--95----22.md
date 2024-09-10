@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----Una causa de que no funcione cuando intentamos conectar o montar una carpeta compartida en samba, puede ser por la diferencia de versiones del cliente con el servidor. se puede forzar para que use la v 1 o 2
+{"dg-publish":true,"permalink":"/blog/posts/error-3-a-cifs-mount-failed-code-3-d-95-22/"}
+---
+
+Una causa de que no funcione cuando intentamos conectar o montar una carpeta compartida en samba, puede ser por la diferencia de versiones del cliente con el servidor. se puede forzar para que use la v 1 o 2
 Hay que probar de forzar para que use la versión instalada en el servidor donde esta la carpeta compartida.
 ```
 mount -t cifs -o vers=1.0,username=usuario,password=password //192.168.1.1/carpeta_compartida /home/usuario/carpeta

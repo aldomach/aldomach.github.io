@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----![](../fetched_images\_93c175a9-4151-435a-83d7-6171db692bec.jpg)
+{"dg-publish":true,"permalink":"/blog/posts/mover-la-carpeta-packages-del-flight-simulator-a-otra-unidad/"}
+---
+
+![](../fetched_images\_93c175a9-4151-435a-83d7-6171db692bec.jpg)
 Si jugás al Microsoft Flight Simulator, sabrás que la carpeta Packages
         te ocupa un montón de espacio en el disco. Esta carpeta tiene los
         archivos del mundo del simulador, como los aeropuertos, las ciudades y

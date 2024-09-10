@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----[
+{"dg-publish":true,"permalink":"/blog/posts/keepass-autotyper-gui/"}
+---
+
+[
 ![](../fetched_images\20231113-175529_keepass_autotype_gui.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgduvyl5aP1lSmZd56EYdbSNZrPjY7lG08ghSGGgPTS_4plFWFxIO6PxpOldpHCS6AZxkivi0AEgVUh-G9V8Gni3Xfgl4FY0hRerWMN85E2pj3HT0aR6LhpanOwEdB8V01uv2ChpNnIl729VZK-xFPm8OGomqf1V7JGF4_Ru_kHSHY-56eV-L2gTYu92KA/s987/20231113-175529_keepass_autotype_gui.png)Automatiza tus contraseñas con Auto Type GUI for KeePass XC
 En la era digital, mantener nuestras contraseñas seguras es más importante que nunca. Sin embargo, recordar y escribir contraseñas largas y complejas puede resultar tedioso y propenso a errores. Es aquí donde entra en juego el software que te presento:Auto Type GUI for KeePass XC
 Auto Type GUI for KeePass XC es una herramienta que te permite crear secuencias de teclas personalizadas para ingresar tus contraseñas automáticamente. Ya no tendrás que preocuparte por escribir largas combinaciones de caracteres o recordarlas de memoria. Con solo unos clics, podrás automatizar el proceso de ingreso de contraseñas y ahorrar tiempo y esfuerzo.

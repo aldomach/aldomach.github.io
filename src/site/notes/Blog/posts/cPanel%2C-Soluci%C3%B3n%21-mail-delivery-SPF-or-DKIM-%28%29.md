@@ -1,6 +1,9 @@
 ---
-dg-publish: true
----![](../fetched_images\20230808-182745_chrome.png)
+{"dg-publish":true,"permalink":"/blog/posts/c-panel-2-c-soluci-c3-b3n-21-mail-delivery-spf-or-dkim-28-29/"}
+---
+
+
+![](../fetched_images\20230808-182745_chrome.png)
 En el cPanel ir a la sección de correos; Email Deliverability y entrar a
   Ajustes del dominio que tiene problemas.
 

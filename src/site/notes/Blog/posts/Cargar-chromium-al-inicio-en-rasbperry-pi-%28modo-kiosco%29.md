@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----Para ejecutar el navergador en pantalla completa, apenas inicia la raspberry, hay que cargarlo en el archivo autostart, conviene hacer un backup del archivo
+{"dg-publish":true,"permalink":"/blog/posts/cargar-chromium-al-inicio-en-rasbperry-pi-28modo-kiosco-29/"}
+---
+
+Para ejecutar el navergador en pantalla completa, apenas inicia la raspberry, hay que cargarlo en el archivo autostart, conviene hacer un backup del archivo
 Conviene hacer un backup del conten
 ```
 nano ~/.config/lxsession/LXDE-pi/autostart

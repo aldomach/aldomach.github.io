@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----![](../fetched_images\rect1620.png)
+{"dg-publish":true,"permalink":"/blog/posts/lexmark-mx510-2-f-mx517de-error-33-01-n-28-soluci-c3-b3n-29/"}
+---
+
+![](../fetched_images\rect1620.png)
   El error 33.01n indica que la impresora ha detectado un cartucho de tóner o
   una unidad de imagen que no es de Lexmark. . 
 

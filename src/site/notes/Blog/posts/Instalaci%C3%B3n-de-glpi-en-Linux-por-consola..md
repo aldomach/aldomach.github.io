@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----![](../fetched_images\20230808-171707_kdenlive.png)
+{"dg-publish":true,"permalink":"/blog/posts/instalaci-c3-b3n-de-glpi-en-linux-por-consola/"}
+---
+
+![](../fetched_images\20230808-171707_kdenlive.png)
 # Instalar GLPI por consola
 
   Primero instalamos nuestro servidor de bases de datos MariaDB, y los servidores Apache y PHP. 

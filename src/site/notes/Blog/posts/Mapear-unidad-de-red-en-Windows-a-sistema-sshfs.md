@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----[
+{"dg-publish":true,"permalink":"/blog/posts/mapear-unidad-de-red-en-windows-a-sistema-sshfs/"}
+---
+
+[
 ![](../fetched_images\cap.gif)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU-RKOgiurHCuCCjZQ_hHB0vGew0Wbs_Vq6x-HNqf0lPmbYynS3zkNUIxj8wkcK247g_NHJjnOWfwtQ_29uhCUxITylel7GKZ5jiPV75ujpcYDXFk371xKfMoz52lFyQDQVMObupSonQZBJQ3e9kposzAi1qXYhrjQ00nsd9s1t5ZqloHxDZQsVdtYYs8/s800/cap.gif)
 Cómo conectar una carpeta de Linux a Windows con SSHFS
 ### 1: Instala el servidor SSH en Linux

@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----![](../fetched_images\OIG3.4Jads.jpeg)
+{"dg-publish":true,"permalink":"/blog/posts/script-en-bash-para-cortar-archivos-mp-3-en-fragmentos/"}
+---
+
+![](../fetched_images\OIG3.4Jads.jpeg)
 
   Este script en bash permite dividir un archivo de audio MP3 en segmentos. Al
   ejecutarlo, se debe proporcionar como argumento el nombre del archivo MP3

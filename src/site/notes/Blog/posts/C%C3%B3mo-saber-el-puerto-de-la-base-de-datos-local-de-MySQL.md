@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----![](../fetched_images\Rep17.png)
+{"dg-publish":true,"permalink":"/blog/posts/c-c3-b3mo-saber-el-puerto-de-la-base-de-datos-local-de-my-sql/"}
+---
+
+![](../fetched_images\Rep17.png)
 
 El puerto de la base de datos local de MySQL es el que se ha configurado en el
   archivo de configuración de MySQL, que por lo general se llama my.cnf o my.ini

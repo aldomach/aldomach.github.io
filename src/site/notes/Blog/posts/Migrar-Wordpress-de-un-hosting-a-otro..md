@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----![](../fetched_images\migracion-de-wordpres.png)
+{"dg-publish":true,"permalink":"/blog/posts/migrar-wordpress-de-un-hosting-a-otro/"}
+---
+
+![](../fetched_images\migracion-de-wordpres.png)
 Esto puede servir de ayuda para casi cualquier CMS, teniendo en cuenta las
   configuraciones específicas de WordPress, como el archivo de configuración.
 ### En el hosting A.

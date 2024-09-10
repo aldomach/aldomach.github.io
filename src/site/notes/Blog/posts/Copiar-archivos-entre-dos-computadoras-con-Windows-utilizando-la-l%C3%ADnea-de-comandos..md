@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----![](../fetched_images\OIG2.jpg)
+{"dg-publish":true,"permalink":"/blog/posts/copiar-archivos-entre-dos-computadoras-con-windows-utilizando-la-l-c3-a-dnea-de-comandos/"}
+---
+
+![](../fetched_images\OIG2.jpg)
 Copiar archivos entre dos computadoras con Windows utilizando la línea de comandos. 
 Antes de empezar lo primero es asegurarnos de conocer el usuario y contraseña de la pc a remot, sin eso no podemos hacer nada. 
 A continuación de tejo algunas opciones:

@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----![](../fetched_images\debian.jpg)
+{"dg-publish":true,"permalink":"/blog/posts/repositorios-debian-11-5-0/"}
+---
+
+![](../fetched_images\debian.jpg)
 deb http://deb.debian.org/debian/ bullseye main
 deb\-src http://deb.debian.org/debian/ bullseye main
 

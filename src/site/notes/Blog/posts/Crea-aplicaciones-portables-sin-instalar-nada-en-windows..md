@@ -1,6 +1,8 @@
 ---
-dg-publish: true
----![](../fetched_images\20240806-084603_iexpress.png)
+{"dg-publish":true,"permalink":"/blog/posts/crea-aplicaciones-portables-sin-instalar-nada-en-windows/"}
+---
+
+![](../fetched_images\20240806-084603_iexpress.png)
 
 Windows trae una herramienta bastante desconocida para crear aplicaciones portables o paquetes autoextraibles, **IExpress** viene desde Windows 2000. Es ideal para
 empaquetar y distribuir software, scripts o cualquier conjunto de archivos que
