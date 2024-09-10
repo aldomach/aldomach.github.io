@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/blog/helcopero/cicare/","title":"Cicaré"}
 ---
 
-
+[[Blog/Nota Uno\|Nota Uno]]
 Augusto «Pirincho» Cicaré 1937 – 2022
 
 Nació el 25 de mayo de 1937 en la localidad de Polvaredas, Partido de Saladillo, provincia de Buenos Aires, República Argentina.
