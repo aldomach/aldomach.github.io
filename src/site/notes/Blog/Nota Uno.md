@@ -5,11 +5,11 @@
 Esto es una nota para publicar
 
 [[Blog/posts/TotalCommander%2C-Cambiar-la-ruta-del-archivo-de-configuraci%C3%B3n.\|TotalCommander%2C-Cambiar-la-ruta-del-archivo-de-configuraci%C3%B3n.]]
-[[Blog/posts/-Usar-celular-o-tablet-como-segunda-Pantalla.\|-Usar-celular-o-tablet-como-segunda-Pantalla.]]
+[[Blog/posts/Usar-celular-o-tablet-como-segunda-Pantalla.\|Usar-celular-o-tablet-como-segunda-Pantalla.]]
 [[Blog/posts/Abrir-Perfil-de-Google-Chrome-especificando-su-carpeta\|Abrir-Perfil-de-Google-Chrome-especificando-su-carpeta]]
 [[Blog/posts/Abrir-resultado-de-Everything-con-Total-Commander.\|Abrir-resultado-de-Everything-con-Total-Commander.]]
 [[Blog/posts/Agregar-%C3%ADcono-vectoriales-en-tu-web\|Agregar-%C3%ADcono-vectoriales-en-tu-web]]
-[[Blog/posts/Agregar-resoluci%C3%B3n-de-pantalla-en-linux.\|Agregar-resoluci%C3%B3n-de-pantalla-en-linux.]]
+[[Blog/posts/Resolución-de-pantalla-en-linux.\|Resolución-de-pantalla-en-linux.]]
 [[Blog/posts/Asistente-de-Escritura-para-Typertask-%28Typertask-W-Assistant%29\|Asistente-de-Escritura-para-Typertask-%28Typertask-W-Assistant%29]]
 [[Blog/posts/Big-Linux-Pantalla-Negra-al-instalar-%28Tela-Preta%29\|Big-Linux-Pantalla-Negra-al-instalar-%28Tela-Preta%29]]
 [[Blog/posts/C%C3%B3mo-saber-el-puerto-de-la-base-de-datos-local-de-MySQL\|C%C3%B3mo-saber-el-puerto-de-la-base-de-datos-local-de-MySQL]]
