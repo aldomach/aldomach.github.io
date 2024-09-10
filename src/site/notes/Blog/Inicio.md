@@ -3,7 +3,7 @@
 ---
 
 Esto es una nota para publicar
-[[Segunda\|Segunda]]
+[[Blog/Segunda\|Segunda]]
 
 [[TotalCommander%2C-Cambiar-la-ruta-del-archivo-de-configuraci%C3%B3n.\|TotalCommander%2C-Cambiar-la-ruta-del-archivo-de-configuraci%C3%B3n.]]
 [[Blog/posts/Usar-celular-o-tablet-como-segunda-Pantalla.\|Usar-celular-o-tablet-como-segunda-Pantalla.]]
