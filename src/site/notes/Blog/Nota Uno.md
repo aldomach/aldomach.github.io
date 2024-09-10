@@ -3,9 +3,8 @@
 ---
 
 Esto es una nota para publicar
-[[Blog/Helcopero/Helicoptero - motor\|Helicoptero - motor]]
-[[Blog/Helcopero/Cicaré\|Cicaré]]
-[[Blog/posts/-Usar-celular-o-tablet-como-segunda-Pantalla.\|-Usar-celular-o-tablet-como-segunda-Pantalla.]][[Blog/posts/TotalCommander%2C-Cambiar-la-ruta-del-archivo-de-configuraci%C3%B3n.\|TotalCommander%2C-Cambiar-la-ruta-del-archivo-de-configuraci%C3%B3n.]]
+
+[[Blog/posts/TotalCommander%2C-Cambiar-la-ruta-del-archivo-de-configuraci%C3%B3n.\|TotalCommander%2C-Cambiar-la-ruta-del-archivo-de-configuraci%C3%B3n.]]
 [[Blog/posts/-Usar-celular-o-tablet-como-segunda-Pantalla.\|-Usar-celular-o-tablet-como-segunda-Pantalla.]]
 [[Blog/posts/Abrir-Perfil-de-Google-Chrome-especificando-su-carpeta\|Abrir-Perfil-de-Google-Chrome-especificando-su-carpeta]]
 [[Blog/posts/Abrir-resultado-de-Everything-con-Total-Commander.\|Abrir-resultado-de-Everything-con-Total-Commander.]]
@@ -48,3 +47,4 @@ Esto es una nota para publicar
 [[Blog/posts/Solucion%3A-Whatsapp-no-abre-en-la-web%2C-abre-un-popup-para-abrir-la-app.\|Solucion%3A-Whatsapp-no-abre-en-la-web%2C-abre-un-popup-para-abrir-la-app.]]
 [[Blog/posts/Syncthing-iniciar-oculto-y-especificar-carpeta-de-trabajo-\|Syncthing-iniciar-oculto-y-especificar-carpeta-de-trabajo-]]
 [[Blog/posts/test\|test]]
+
