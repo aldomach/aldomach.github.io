@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/error-cifs-mount-failed-code-3-d-95-22/"}
+{"dg-publish":true,"permalink":"/blog/posts/error-cifs-mount-failed-code-3-d-95-22/","dgPassFrontmatter":true}
 ---
 
 Una causa de que no funcione cuando intentamos conectar o montar una carpeta compartida en samba, puede ser por la diferencia de versiones del cliente con el servidor. se puede forzar para que use la v 1 o 2

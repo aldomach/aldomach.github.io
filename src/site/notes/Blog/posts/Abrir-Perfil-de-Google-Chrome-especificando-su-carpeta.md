@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/abrir-perfil-de-google-chrome-especificando-su-carpeta/"}
+{"dg-publish":true,"permalink":"/blog/posts/abrir-perfil-de-google-chrome-especificando-su-carpeta/","dgPassFrontmatter":true}
 ---
 
 [[Blog/Inicio\|inicio]]

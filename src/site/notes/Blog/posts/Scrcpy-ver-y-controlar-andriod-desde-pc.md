@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/scrcpy-ver-y-controlar-andriod-desde-pc/"}
+{"dg-publish":true,"permalink":"/blog/posts/scrcpy-ver-y-controlar-andriod-desde-pc/","dgPassFrontmatter":true}
 ---
 
 Para conectar un teléfono con scrcpy, debes seguir estos pasos:    

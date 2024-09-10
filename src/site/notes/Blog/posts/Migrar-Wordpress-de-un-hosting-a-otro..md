@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/migrar-wordpress-de-un-hosting-a-otro/"}
+{"dg-publish":true,"permalink":"/blog/posts/migrar-wordpress-de-un-hosting-a-otro/","dgPassFrontmatter":true}
 ---
 
 ![](../fetched_images\migracion-de-wordpres.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/habilitar-windows-sand-box-o-host-protegido/"}
+{"dg-publish":true,"permalink":"/blog/posts/habilitar-windows-sand-box-o-host-protegido/","dgPassFrontmatter":true}
 ---
 
 ![](../fetched_images\sandbox.png)

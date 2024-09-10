@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/resolucion-de-pantalla-en-linux/"}
+{"dg-publish":true,"permalink":"/blog/posts/resolucion-de-pantalla-en-linux/","dgPassFrontmatter":true}
 ---
 
   [[Blog/Inicio\|Inicio]]

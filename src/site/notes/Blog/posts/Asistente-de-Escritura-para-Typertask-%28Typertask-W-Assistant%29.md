@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/asistente-de-escritura-para-typertask-28-typertask-w-assistant-29/"}
+{"dg-publish":true,"permalink":"/blog/posts/asistente-de-escritura-para-typertask-28-typertask-w-assistant-29/","dgPassFrontmatter":true}
 ---
 
 [

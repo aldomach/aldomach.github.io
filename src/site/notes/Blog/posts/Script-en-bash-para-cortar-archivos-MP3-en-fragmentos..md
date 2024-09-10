@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/script-en-bash-para-cortar-archivos-mp-3-en-fragmentos/"}
+{"dg-publish":true,"permalink":"/blog/posts/script-en-bash-para-cortar-archivos-mp-3-en-fragmentos/","dgPassFrontmatter":true}
 ---
 
 ![](../fetched_images\OIG3.4Jads.jpeg)

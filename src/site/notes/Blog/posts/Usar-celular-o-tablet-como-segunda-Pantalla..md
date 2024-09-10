@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/usar-celular-o-tablet-como-segunda-pantalla/"}
+{"dg-publish":true,"permalink":"/blog/posts/usar-celular-o-tablet-como-segunda-pantalla/","dgPassFrontmatter":true}
 ---
 
 [[Blog/Inicio\|Inicio]]

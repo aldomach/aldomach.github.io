@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/abrir-resultado-de-everything-con-total-commander/"}
+{"dg-publish":true,"permalink":"/blog/posts/abrir-resultado-de-everything-con-total-commander/","dgPassFrontmatter":true}
 ---
 
 [[Blog/Inicio\|Inicio]]

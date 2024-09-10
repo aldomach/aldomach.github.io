@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/keepass-autotyper-gui/"}
+{"dg-publish":true,"permalink":"/blog/posts/keepass-autotyper-gui/","dgPassFrontmatter":true}
 ---
 
 [

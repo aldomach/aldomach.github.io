@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/ocultar-cualquier-elemneto-usando-css/"}
+{"dg-publish":true,"permalink":"/blog/posts/ocultar-cualquier-elemneto-usando-css/","dgPassFrontmatter":true}
 ---
 
 De esta manera podemos ocultar cualquier elemento de una web que utiliza css. Se puede eliminar cualquier sección de cualquier página. 

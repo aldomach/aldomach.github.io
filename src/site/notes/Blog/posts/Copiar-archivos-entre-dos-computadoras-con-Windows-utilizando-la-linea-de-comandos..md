@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/copiar-archivos-entre-dos-computadoras-con-windows-utilizando-la-linea-de-comandos/"}
+{"dg-publish":true,"permalink":"/blog/posts/copiar-archivos-entre-dos-computadoras-con-windows-utilizando-la-linea-de-comandos/","dgPassFrontmatter":true}
 ---
 
 ![](../fetched_images\OIG2.jpg)

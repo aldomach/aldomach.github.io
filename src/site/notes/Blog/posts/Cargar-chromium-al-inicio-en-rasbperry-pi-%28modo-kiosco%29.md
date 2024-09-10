@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/cargar-chromium-al-inicio-en-rasbperry-pi-28modo-kiosco-29/"}
+{"dg-publish":true,"permalink":"/blog/posts/cargar-chromium-al-inicio-en-rasbperry-pi-28modo-kiosco-29/","dgPassFrontmatter":true}
 ---
 
 Para ejecutar el navergador en pantalla completa, apenas inicia la raspberry, hay que cargarlo en el archivo autostart, conviene hacer un backup del archivo

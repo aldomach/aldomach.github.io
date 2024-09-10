@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/lexmark-mx510-2-f-mx517de-error-33-01-n-28-solucion-29/"}
+{"dg-publish":true,"permalink":"/blog/posts/lexmark-mx510-2-f-mx517de-error-33-01-n-28-solucion-29/","dgPassFrontmatter":true}
 ---
 
 ![](../fetched_images\rect1620.png)

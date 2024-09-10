@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/conceder-permiso-de-montar-discos-a-otro-usuario/"}
+{"dg-publish":true,"permalink":"/blog/posts/conceder-permiso-de-montar-discos-a-otro-usuario/","dgPassFrontmatter":true}
 ---
 
 Para que un usuario pueda montar discos en linux debe pertenecer al grupo "disk", por lo tanto, es neceario agregar al usuario al grupo con el comando.

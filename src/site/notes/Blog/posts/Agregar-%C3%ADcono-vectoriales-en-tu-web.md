@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/agregar-c3-a-dcono-vectoriales-en-tu-web/"}
+{"dg-publish":true,"permalink":"/blog/posts/agregar-c3-a-dcono-vectoriales-en-tu-web/","dgPassFrontmatter":true}
 ---
 
 ![](../fetched_images\2022-11-12_08-04-09_chrome.png)

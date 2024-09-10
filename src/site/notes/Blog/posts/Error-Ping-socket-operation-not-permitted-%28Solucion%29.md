@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/error-ping-socket-operation-not-permitted-28-solucion-29/"}
+{"dg-publish":true,"permalink":"/blog/posts/error-ping-socket-operation-not-permitted-28-solucion-29/","dgPassFrontmatter":true}
 ---
 
 [

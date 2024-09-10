@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/mapear-unidad-de-red-en-windows-a-sistema-sshfs/"}
+{"dg-publish":true,"permalink":"/blog/posts/mapear-unidad-de-red-en-windows-a-sistema-sshfs/","dgPassFrontmatter":true}
 ---
 
 [

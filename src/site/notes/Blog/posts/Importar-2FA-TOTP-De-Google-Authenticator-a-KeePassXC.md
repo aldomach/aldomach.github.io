@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/importar-2-fa-totp-de-google-authenticator-a-kee-pass-xc/"}
+{"dg-publish":true,"permalink":"/blog/posts/importar-2-fa-totp-de-google-authenticator-a-kee-pass-xc/","dgPassFrontmatter":true}
 ---
 
 ## ¿Cómo exportar las entradas de Google Authenticator e Importar en KeepassXC ?

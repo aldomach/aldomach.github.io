@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/migrar-configuracion-de-syncthing-de-un-pc-a-otro/"}
+{"dg-publish":true,"permalink":"/blog/posts/migrar-configuracion-de-syncthing-de-un-pc-a-otro/","dgPassFrontmatter":true}
 ---
 
 ![](../fetched_images\image.png)

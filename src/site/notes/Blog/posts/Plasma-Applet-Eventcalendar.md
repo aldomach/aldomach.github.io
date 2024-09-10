@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/plasma-applet-eventcalendar/"}
+{"dg-publish":true,"permalink":"/blog/posts/plasma-applet-eventcalendar/","dgPassFrontmatter":true}
 ---
 
 [

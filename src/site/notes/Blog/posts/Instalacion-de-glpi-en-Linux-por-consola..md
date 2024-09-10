@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/instalacion-de-glpi-en-linux-por-consola/"}
+{"dg-publish":true,"permalink":"/blog/posts/instalacion-de-glpi-en-linux-por-consola/","dgPassFrontmatter":true}
 ---
 
 ![](../fetched_images\20230808-171707_kdenlive.png)

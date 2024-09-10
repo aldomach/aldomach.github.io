@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/como-saber-el-puerto-de-la-base-de-datos-local-de-my-sql/"}
+{"dg-publish":true,"permalink":"/blog/posts/como-saber-el-puerto-de-la-base-de-datos-local-de-my-sql/","dgPassFrontmatter":true}
 ---
 
 ![](../fetched_images\Rep17.png)

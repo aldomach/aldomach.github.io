@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/big-linux-pantalla-negra-al-instalar-28-tela-preta-29/"}
+{"dg-publish":true,"permalink":"/blog/posts/big-linux-pantalla-negra-al-instalar-28-tela-preta-29/","dgPassFrontmatter":true}
 ---
 
 [

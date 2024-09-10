@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/repositorios-debian-11-5-0/"}
+{"dg-publish":true,"permalink":"/blog/posts/repositorios-debian-11-5-0/","dgPassFrontmatter":true}
 ---
 
 ![](../fetched_images\debian.jpg)

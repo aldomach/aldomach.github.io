@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/solucion-3-a-whatsapp-no-abre-en-la-web-2-c-abre-un-popup-para-abrir-la-app/"}
+{"dg-publish":true,"permalink":"/blog/posts/solucion-3-a-whatsapp-no-abre-en-la-web-2-c-abre-un-popup-para-abrir-la-app/","dgPassFrontmatter":true}
 ---
 
 [

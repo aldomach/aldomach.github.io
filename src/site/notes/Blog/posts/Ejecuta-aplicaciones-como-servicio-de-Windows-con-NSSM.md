@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/ejecuta-aplicaciones-como-servicio-de-windows-con-nssm/"}
+{"dg-publish":true,"permalink":"/blog/posts/ejecuta-aplicaciones-como-servicio-de-windows-con-nssm/","dgPassFrontmatter":true}
 ---
 
 [

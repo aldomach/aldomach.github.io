@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/syncthing-iniciar-oculto-y-especificar-carpeta-de-trabajo/"}
+{"dg-publish":true,"permalink":"/blog/posts/syncthing-iniciar-oculto-y-especificar-carpeta-de-trabajo/","dgPassFrontmatter":true}
 ---
 
 [

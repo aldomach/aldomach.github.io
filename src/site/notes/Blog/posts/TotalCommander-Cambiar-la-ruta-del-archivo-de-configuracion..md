@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/total-commander-cambiar-la-ruta-del-archivo-de-configuracion/"}
+{"dg-publish":true,"permalink":"/blog/posts/total-commander-cambiar-la-ruta-del-archivo-de-configuracion/","dgPassFrontmatter":true}
 ---
 
 

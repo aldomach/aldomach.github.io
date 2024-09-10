@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/test/"}
+{"dg-publish":true,"permalink":"/blog/posts/test/","dgPassFrontmatter":true}
 ---
 
       \#Woo hoo\!

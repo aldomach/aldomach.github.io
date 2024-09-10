@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/c-panel-2-c-solucion-21-mail-delivery-spf-or-dkim-28-29/"}
+{"dg-publish":true,"permalink":"/blog/posts/c-panel-2-c-solucion-21-mail-delivery-spf-or-dkim-28-29/","dgPassFrontmatter":true}
 ---
 
 

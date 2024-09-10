@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/mover-la-carpeta-packages-del-flight-simulator-a-otra-unidad/"}
+{"dg-publish":true,"permalink":"/blog/posts/mover-la-carpeta-packages-del-flight-simulator-a-otra-unidad/","dgPassFrontmatter":true}
 ---
 
 ![](../fetched_images\_93c175a9-4151-435a-83d7-6171db692bec.jpg)

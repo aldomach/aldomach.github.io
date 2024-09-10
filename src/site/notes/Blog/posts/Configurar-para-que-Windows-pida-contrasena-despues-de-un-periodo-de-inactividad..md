@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/configurar-para-que-windows-pida-contrasena-despues-de-un-periodo-de-inactividad/"}
+{"dg-publish":true,"permalink":"/blog/posts/configurar-para-que-windows-pida-contrasena-despues-de-un-periodo-de-inactividad/","dgPassFrontmatter":true}
 ---
 
 ![](../fetched_images\OIG.jpeg)

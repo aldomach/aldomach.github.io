@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/crea-aplicaciones-portables-sin-instalar-nada-en-windows/"}
+{"dg-publish":true,"permalink":"/blog/posts/crea-aplicaciones-portables-sin-instalar-nada-en-windows/","dgPassFrontmatter":true}
 ---
 
 ![](../fetched_images\20240806-084603_iexpress.png)

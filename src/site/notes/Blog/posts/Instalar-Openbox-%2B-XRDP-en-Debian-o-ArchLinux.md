@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/instalar-openbox-2-b-xrdp-en-debian-o-arch-linux/"}
+{"dg-publish":true,"permalink":"/blog/posts/instalar-openbox-2-b-xrdp-en-debian-o-arch-linux/","dgPassFrontmatter":true}
 ---
 
 obconfi: configurador para openbox

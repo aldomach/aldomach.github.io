@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/configuracion-de-sharex-28-grabar-audio-2-c-subir-a-youtube-29/"}
+{"dg-publish":true,"permalink":"/blog/posts/configuracion-de-sharex-28-grabar-audio-2-c-subir-a-youtube-29/","dgPassFrontmatter":true}
 ---
 
 ![](../fetched_images\ShareX_Screenshot.png)

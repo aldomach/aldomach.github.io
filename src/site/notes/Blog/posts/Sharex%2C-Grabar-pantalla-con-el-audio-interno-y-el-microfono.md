@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/posts/sharex-2-c-grabar-pantalla-con-el-audio-interno-y-el-microfono/"}
+{"dg-publish":true,"permalink":"/blog/posts/sharex-2-c-grabar-pantalla-con-el-audio-interno-y-el-microfono/","dgPassFrontmatter":true}
 ---
 
 ![](../fetched_images\_b3c80e0a-31f9-49aa-b9bf-5826cd954312.jpg)
