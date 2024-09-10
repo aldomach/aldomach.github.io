@@ -3,3 +3,5 @@
 ---
 
 Esto es una nota para publicar
+[[Blog/Helcopero/Helicoptero - motor\|Helicoptero - motor]]
+[[Blog/Helcopero/Cicaré\|Cicaré]]
