@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/blog/posts/test/"}
 ---
+
       \#Woo hoo\!
       \[Markdown\]\(http://daringfireball.net/projects/markdown/\) is cool\!
       ```javascript

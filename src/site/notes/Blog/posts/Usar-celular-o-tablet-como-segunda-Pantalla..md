@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/blog/posts/usar-celular-o-tablet-como-segunda-pantalla/"}
 ---
 
+[[Blog/Inicio\|Inicio]]
 ![](../fetched_images\2023-02-01_17-44-35_ONENOTE.png)
 ¿Te gustaría aprovechar tu dispositivo Android como una pantalla extra para tu PC? ¡Entonces tenés que probar Spacedesk\! Spacedesk es una aplicación gratuita que te permite usar tu móvil, celular o tablet Android como segundo monitor para PC. Es muy fácil de usar y te ofrece muchas ventajas.
 Con Spacedesk, podés ampliar tu espacio de trabajo y tener más ventanas abiertas al mismo tiempo. Podés usar tu Android para mostrar tus aplicaciones favoritas, como Facebook, Youtube, Twitter, etc. Podés usar tu Android como una pantalla de renderizado para Photoshop, AutoCAD, etc. Podés usar tu Android para ver documentos en modo vertical o para hacer presentaciones con Word, Excel y PowerPoint.

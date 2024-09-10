@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/blog/posts/resolucion-de-pantalla-en-linux/"}
 ---
 
-  [[Blog/Nota Uno\|Inicio]]
+  [[Blog/Inicio\|Inicio]]
   En Xubuntu, si no te aparece la resolución que querés podes agregarle usando
   xrandr.
 1. 

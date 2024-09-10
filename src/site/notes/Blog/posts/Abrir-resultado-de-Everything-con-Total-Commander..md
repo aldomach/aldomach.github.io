@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/blog/posts/abrir-resultado-de-everything-con-total-commander/"}
 ---
 
+[[Blog/Inicio\|Inicio]]
 Los siguientes pasos explican cómo hacerlo:
 1. Abre el Editor del Registro de Windows.
 2. Navega a la siguiente clave:
